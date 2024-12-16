@@ -66,7 +66,7 @@ In order to achieve such an effect, we need to go to the **“Administration”*
 
 After pressing the **“Save”** button, the changes will be saved and Daxi will already restart with the newly assigned IP address. Further possible configuration of Daxi via the web server from now on will be possible only after changing the settings of the network card of the computer we are using to the appropriate IP address class.
 
-![alt text](administration.png)
+![alt text](readme/administration.png)
 
 We have reached the point where Daxi and Siemens are on the same network, but cannot yet exchange any data between them.
 
